@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/moodswitch/static/css/main.77609faa.css",
+    "main.js": "/moodswitch/static/js/main.b5fd0d8f.js",
+    "static/js/453.e411633b.chunk.js": "/moodswitch/static/js/453.e411633b.chunk.js",
+    "index.html": "/moodswitch/index.html",
+    "main.77609faa.css.map": "/moodswitch/static/css/main.77609faa.css.map",
+    "main.b5fd0d8f.js.map": "/moodswitch/static/js/main.b5fd0d8f.js.map",
+    "453.e411633b.chunk.js.map": "/moodswitch/static/js/453.e411633b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77609faa.css",
+    "static/js/main.b5fd0d8f.js"
+  ]
+}
